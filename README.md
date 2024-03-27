@@ -5,15 +5,14 @@
 <br>
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNvbW5hbzR2Y3phbGlpM2U0d210d2o2a2h0aDVhZ2x0d2R6bnR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="developer" width="50%"/>
 
-<p align="justify">
-    - 💻 Sou Técnico em Desenvolvimento de Sistemas;<br>
-    - 📋 Estou cursando Análise e Desenvolvimento de Sistemas;
-</p>
+
+- 💻 Sou Técnico em Desenvolvimento de Sistemas;
+- 📋 Estou cursando Análise e Desenvolvimento de Sistemas;
 
 
 
 <a target="blank" href="https://www.linkedin.com/in/arthur-renan-gutierrez-dias-pereira-b030301aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
-
+<br><br>
 <p align="center">
     <img style="padding:10px" src="https://github-readme-stats.vercel.app/api?username=arthurrenan00&show_icons=true&theme=radical"/>
     <br/>
