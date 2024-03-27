@@ -9,7 +9,7 @@
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurrenan00&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrenan00)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrenan00&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
 <br/>
