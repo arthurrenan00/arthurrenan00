@@ -12,11 +12,13 @@
 
 
 <a target="blank" href="https://www.linkedin.com/in/arthur-renan-gutierrez-dias-pereira-b030301aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> 
-<br><br>
+<br/>
+<br/>
+
 <p align="center">
-    <img style="padding:10px" src="https://github-readme-stats.vercel.app/api?username=arthurrenan00&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=arthurrenan00&show_icons=true&theme=radical"/>
     <br/>
-    <img style="padding:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrenan00&langs_count=8&layout=donut-vertical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrenan00&langs_count=8&layout=donut-vertical"/>
 </p>
 <br/>
 
