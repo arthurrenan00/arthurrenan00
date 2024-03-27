@@ -3,7 +3,7 @@
 <h1 align="center">Olá! Meu nome é Arthur Renan Gutierrez Dias Pereira❤️</h1> 
 <h3 align="center">Um desenvolvedor full stack, amante de banco de dados📊</h3>
 <br>
-<img  style="float: right; padding: 0 10px 20px 50px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNvbW5hbzR2Y3phbGlpM2U0d210d2o2a2h0aDVhZ2x0d2R6bnR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="developer" width="50%"/>
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNvbW5hbzR2Y3phbGlpM2U0d210d2o2a2h0aDVhZ2x0d2R6bnR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="developer" width="50%"/>
 
 <p align="justify">
     - 💻 Sou Técnico em Desenvolvimento de Sistemas;<br>
